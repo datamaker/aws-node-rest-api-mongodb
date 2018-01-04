@@ -1,0 +1,5 @@
+/node_modules/
+/server/settings.json
+.idea
+.serverless
+/.meteor/local/
